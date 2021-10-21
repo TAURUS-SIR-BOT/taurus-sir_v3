@@ -5,7 +5,7 @@
 <a href="#"><img title="taurus.sir_v3" src="https://img.shields.io/badge/taurus.sir_v3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/TAURUS-SIR-BOT"><img title="Author" src="https://img.shields.io/badge/Author-TAURUS-SIR-BOT/taurus.sir_v3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v3"><img title="Author" src="https://img.shields.io/badge/Author- TAURUS ?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
