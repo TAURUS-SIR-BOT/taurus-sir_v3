@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('taurus.sir_v3 working! 😍')
+            chalk.green.bold('taurus-sir_v3 working! 😍')
         );
     });
     
@@ -248,7 +248,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ taurus.sir_v3 ~_____🕊️♥️~*' +
+                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ taurus-sir_v3 ~_____🕊️♥️~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n'
                                     , MessageType.text);
                             }
