@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="TAURUS-SIR-BOT.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="taurus.sir_v3" src="https://img.shields.io/badge/taurus.sir_v3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="taurus-sir_v3" src="https://img.shields.io/badge/taurus-sir_v3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v3"><img title="Author" src="https://img.shields.io/badge/Author- TAURUS ?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus-sir_v3"><img title="Author" src="https://img.shields.io/badge/Author- TAURUS ?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,12 +19,12 @@ Project created by <a href="https://github.com/TAURUS-SIR-BOT">TAURUS-SIR-BOT</a
 ----
 
   <p align="center">
-  <a href="httsp://github.com/TAURUS-SIR-BOT/taurus.sir_v3">
+  <a href="httsp://github.com/TAURUS-SIR-BOT/taurus-sir_v3">
     
 <a href="https://github.com/TAURUS-SIR-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/TAURUS-SIR-BOT?color=blue&style=flat-square"></a>
-<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TAURUS-SIR-BOT/taurus.sir_v3?color=blue&style=flat-square"></a>
-<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TAURUS-SIR-BOT/taurus.sir_v3?color=blue&style=flat-square"></a>
-<a href="https://github.com/TAURUS-SIR-BOT/taurus.sir_v3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TAURUS-SIR-BOT/taurus.sir_v3?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus-sir_v3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TAURUS-SIR-BOT/taurus-sir_v3?color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus-sir_v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TAURUS-SIR-BOT/taurus-sir_v3?color=blue&style=flat-square"></a>
+<a href="https://github.com/TAURUS-SIR-BOT/taurus-sir_v3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TAURUS-SIR-BOT/taurus-sir_v3?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -34,7 +34,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/TAURUS-SIR-BOT/Taurus.sir_v3)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/TAURUS-SIR-BOT/taurus-sir_v3)
   </div>
     
 ## Setup
@@ -42,7 +42,7 @@ Click WA logo to Join Support Group 👇
 
  ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAURUS-SIR-BOT/taurus.sir_v3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAURUS-SIR-BOT/taurus-sir_v3) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
      </div>
@@ -59,8 +59,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/TAURUS-SIR-BOT/taurus.sir_v3
-$ cd taurus.sir_v3
+$ git clone https://github.com/TAURUS-SIR-BOT/taurus-sir_v3
+$ cd taurus-sir_v3
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -69,8 +69,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/TAURUS-SIR-BOT/taurus.sir_v3
-$ cd taurus.sir_v3
+$ git clone https://github.com/TAURUS-SIR-BOT/taurus-sir_v3
+$ cd taurus-sir_v3
 $ chmod +x *
 $ npm i
 $ node qr.js
