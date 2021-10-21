@@ -40,12 +40,11 @@ Click WA logo to Join Support Group 👇
 ## Setup
 <div align="center">
 
-  ### Simple Method
+ ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAURUS-SIR-BOT/taurus.sir_v3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TAURUS-SIR-BOT/taurus.sir_v3)
-  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
      </div>
 <br>
 <br >
